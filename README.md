@@ -1,4 +1,4 @@
 # 👋 Hi, I'm @yanohue,
-* Attendee to System Analysis and Development classes;
+* System Analysis and Development student;
 * Interested in web development, databases & API's;
 * Currently focused on developing my skils in JavaScript.
